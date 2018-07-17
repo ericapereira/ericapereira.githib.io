@@ -39,3 +39,12 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+
+/************** actual site content below *********/
+
+.homeSection {
+  height: 30rem;
+  background: white;
+  border: 1px solid black;
+}
